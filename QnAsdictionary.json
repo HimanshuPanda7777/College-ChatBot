@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What are the various B.Tech programs offered by the college?",
+        "context": "The college offers a diverse range of B.Tech programs, catering to different specializations and interests. The programs include:\n\n1. B.Tech in Computer Science Engineering\n2. B.Tech in Computer Science and Engineering (Integrated)\n3. B.Tech (Hons.) with specializations in:\n   - Internet of Things (IoT)\n   - Cyber Security\n   - Blockchain Technology\n   - Artificial Intelligence (AI)\n   - Machine Learning (ML)\n   - Data Science\n4. Diploma in Computer Science Engineering\n\nThese programs are designed to provide students with comprehensive knowledge and skills in their chosen fields, preparing them for successful careers in technology."
+      },
+
+    {"question": "How can I apply for admission to the CSE program?",
+     "context": "To apply for admission, Click on the apply now link : https://dehradun.gehu.ac.in/apply-now/ . Ensure you meet the eligibility criteria and submit the required documents."},
+    
+    {"question": "Are there any internship opportunities for CSE students?",
+     "context": "Yes, the CSE department regularly collaborates with industry partners to provide internship opportunities. Check the department bulletin or website for current internship openings."},
+    
+    {"question": "What research areas are focused on in the CSE department?",
+     "context": "Research areas in the CSE department include but are not limited to machine learning, Internet of Things , cybersecurity, data science, and software development methodologies."},
+    
+    {"question": "How can I get involved in extracurricular activities related to CSE?",
+     "context": "Joining clubs, participating in hackathons, and attending workshops and seminars are excellent ways to get involved. Keep an eye on department announcements for upcoming events."},
+    
+    {"question": "Can I get assistance with programming assignments?",
+     "context": "Certainly! The department offers tutoring services and has a programming lab where you can seek help from professors or teaching assistants during specified hours."},
+    
+    {"question": "What resources does the CSE department provide for student projects?",
+     "context": "The CSE department provides access to computer labs, software tools, and guidance from faculty members to support student projects. Check with your project advisor for specific resources."},
+    
+    {"question": "Are there any scholarships available for CSE students?",
+     "context": "Yes, the CSE department may have scholarship programs. Visit the college's financial aid office or the department website for information on available scholarships and application procedures."},
+    
+    {"question": "How can I connect with alumni from the CSE department?",
+     "context": "The department often organizes alumni networking events. You can also join professional networking platforms like LinkedIn to connect with alumni and gain insights into their experiences."},
+    
+    {"question": "What career opportunities are available for CSE graduates?",
+     "context": "CSE graduates have diverse career opportunities, including software development, data analysis, cybersecurity, and system architecture. The department provides career counseling and organizes job fairs to assist students in finding suitable positions."} ,
+    
+    {"question": "Are you a robot?", 
+    "context": "I'm not quite a robot! I'm a complex software program running on powerful computers. Unlike robots, I don't have a physical body, but I can still interact with the world through text and code."},
+    
+    {"question": "Who created you?", 
+    "context": "I was created by talented guy of Graphic Era Hill University Mr.Deepanshu Bisht"},
+    
+    {"question": "Can you feel emotions?", 
+    "context": "Currently, I am not capable of feeling emotions. However, I can understand and respond to them, and I'm always learning more about the human experience."},
+    
+    {"question": "What can you do?", 
+    "context": "I can do many things! I can answer your questions, generate different creative text formats, translate languages, write different kinds of creative content, and more. Just ask me!"},
+    
+    {"question": "How do I ask you a question?", 
+    "context": "Just type your question in the chat window! I will do my best to understand and answer it in a comprehensive and informative way."},
+    
+    {"question": "What if I don't understand your answer?", 
+    "context": "Will try my best to answer "},
+
+    {"question": "What is your name?", 
+    "context": "Garuda is my name !"},
+
+    {"question": "May I have the address of your college?", 
+    "context": "Graphic Era Hill University, Bell Road, Clement Town, Dehradun, Uttarakhand"},
+    
+    {"question": "Could you provide the phone number for the college?", 
+    "context": "18008906027"},
+    
+    {"question": "What are the college hours of operation?", 
+    "context": "The college timing is Monday to Saturday, from 8:00 AM to 6:00 PM."},
+    
+    {"question": "Do you have a Facebook page?", 
+    "context": "Link to Facebook: https://www.facebook.com/gehu.official/"},
+
+    {"question": "Is there a LinkedIn page for the college?", 
+    "context": "Link to LinkedIn: https://www.linkedin.com/company/graphic-era-hilluniversity"},
+    
+    {"question": "Is there a YouTube channel for the college?", 
+    "context": "Link to YouTube: https://www.youtube.com/GEHUDehradun"},
+    
+    {"question": "Does the college have an Instagram account?", 
+    "context": "Link to Instagram: https://www.instagram.com/graphicerahilluniversity/"},
+
+    {"question": "How is the faculty and staff at the college?", 
+    "context": "https://dehradun.gehu.ac.in/computer-science-and-engineering/"},
+
+    {"question":"Can you provide information about the counseling program for admission at the college?",
+    "context":"Click on :https://dehradun.gehu.ac.in/contact/"},
+
+    {"question":"How can I connect with professors for academic guidance?",
+    "context":"Professors are generally accessible during their office hours, and students are encouraged to reach out via email or schedule appointments for academic guidance. Additionally, the college may have a mentoring program to facilitate student-faculty interactions."},
+
+    {"question":"How can I get involved in extracurricular activities related to CSE?", 
+    "context":"CSE students can participate in various extracurricular activities, including coding competitions, workshops, seminars, and conferences. Information about upcoming events and activities is typically shared through departmental newsletters, notice boards, and official communication channels."},
+
+    {"question":"How is the placement scenario for Computer Science and Engineering students at the college?",
+    "context":"For more information, you can visit the [college's official website](https://dehradun.gehu.ac.in/placement)."},
+
+    {"question":"Hey","context":"How may I assist you?"}
+]

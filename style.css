@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
+  
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  background-image: url('./images/Aurora\ Dragon.png');
+}
+#chat-container {
+  width: 600px; /* Adjusted width for better readability */
+  height: 500px; /* Adjusted height to vertically stretch the container */
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  opacity: 0.8;
+}
+#chat-header {
+  background-color: rgba(173, 77, 131, 0.5);
+  color: #140707;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+#chat-messages {
+  flex-grow: 1;
+  padding: 10px;
+  overflow-y: scroll;
+  max-height: calc(100% - 40px); /* Adjusted max-height for better fit */
+  align-self: flex-end; /* Align messages to the bottom */
+}
+#user-input {
+  display: flex;
+  padding: 10px;
+}
+#message-input {
+  flex-grow: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+#send-button {
+  background-color: rgba(173, 77, 131, 0.5);
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#IamGaruda {
+  color: rgba(230, 118, 182, 0.5);
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  padding-top: 100px;
+}
