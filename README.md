@@ -15,11 +15,4 @@ Welcome to the College Chatbot project! This chatbot is designed to provide info
 - Python: Backend development and integration with machine learning models.
 - Flask: Web framework for handling HTTP requests.
 - Simple Transformers: Library for transformer-based models.
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Deepanshuisjod/mini-project-chatbot.git
   
